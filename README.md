@@ -1,24 +1,36 @@
-# minimalist-ecommerce
+# Minimalist Ecommerce Project
 
-## Project setup
-```
-npm install
-```
+A minimalist ecommerce project built with Vue.js, SASS, and data from the Fake Store API.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Screenshots
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Screenshot 1](screenshots/screenshot1.png)
+*Description of screenshot 1.*
 
-### Run your unit tests
-```
-npm run test:unit
-```
+![Screenshot 2](screenshots/screenshot2.png)
+*Description of screenshot 2.*
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Features
+
+- Minimalistic and clean design.
+- Product display with title, image, and description.
+- Responsive interface for different screen sizes.
+- Product fetching from the Fake Store API.
+- Basic styling with SASS.
+
+## Technologies Used
+
+- Vue.js for building user interfaces.
+- SASS for styling.
+- [Axios](https://axios-http.com/) for making HTTP requests to the Fake Store API.
+
+## API Integration
+This project fetches product data from the Fake Store API. The product information is used to display product details and prices on the frontend.
+
+## Usage
+- Browse the product listings on the homepage.
+- Click on a product to view its details.
+- Adjust the quantity and see the dynamic price update.
+
+## Contribution
+- contributions to this project are accepted. Feel free to use improve this project.
