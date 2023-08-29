@@ -2,13 +2,6 @@
 
 A minimalist ecommerce project built with Vue.js, SASS, and data from the Fake Store API.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-*Description of screenshot 1.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Description of screenshot 2.*
 
 ## Features
 
