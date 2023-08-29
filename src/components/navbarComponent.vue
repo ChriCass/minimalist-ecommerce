@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar sticky-top bg-white fixed p-5 shadow-sm">
     <div class="container-fluid">
-      <!-- Brand -->
+
       <router-link class="navbar-brand" to="/">
         <img
           src="@/assets/logo_japanese.png"
