@@ -1,0 +1,14 @@
+.no-border{
+    border: none;
+  }
+  
+  .horizontal{
+    display: flex;
+    flex-direction: row;
+  }
+
+  @media (min-width: 768px) {
+    .height-custom{
+        height: auto;
+    }
+  }
